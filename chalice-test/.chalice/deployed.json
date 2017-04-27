@@ -1,0 +1,11 @@
+{
+  "dev": {
+    "rest_api_id": "wulf0b42a2",
+    "chalice_version": "0.8.0",
+    "region": "us-west-2",
+    "backend": "api",
+    "api_handler_name": "chalice-test-dev",
+    "api_handler_arn": "arn:aws:lambda:us-west-2:562628674386:function:chalice-test-dev",
+    "api_gateway_stage": "dev"
+  }
+}
